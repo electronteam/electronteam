@@ -1,0 +1,4 @@
+- 👋 Hi, we are Electron Team
+- 👀 We are interested in e-commerce
+- 💞️ We are looking to collaborate with clients that would need an online store
+- 📫 You can reach us via email: electron.team.md@gmail.com
